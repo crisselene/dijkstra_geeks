@@ -66,7 +66,7 @@ class Graph():
 
         self.printSolution(dist) 
 
-# Driver program 
+# Driver program El 0 esta conectado con el 1 a 4 de distancia y con el 7 a 8 de distancia
 g = Graph(9) 
 g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0], 
         [4, 0, 8, 0, 0, 0, 0, 11, 0], 
